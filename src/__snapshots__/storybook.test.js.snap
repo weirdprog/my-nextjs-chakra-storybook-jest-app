@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Example/ChakraButton Default 1`] = `
+<button
+  className="chakra-button css-n82uru"
+  type="button"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots ProductDescription Default 1`] = `
+<div
+  className="css-1v9hmgy"
+>
+  Test Description
+</div>
+`;
+
+exports[`Storyshots ProductPrice Default 1`] = `
+<div
+  className="css-t8ui5q"
+>
+  $100.00
+</div>
+`;
